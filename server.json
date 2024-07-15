@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-06-25T14:06:17.427Z"
+    },
+    {
+      "id": "2",
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 100,
+      "createdAt": "2024-06-26T14:06:17.427Z"
+    },
+    {
+      "description": "Salário",
+      "category": "Serviço",
+      "price": 5000,
+      "type": "income",
+      "createdAt": "2024-07-15T17:35:32.607Z",
+      "id": "9ZAFLde"
+    },
+    {
+      "description": "Energético",
+      "category": "Alimentação",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2024-07-15T17:47:35.250Z",
+      "id": "CePElRe"
+    }
+  ]
+}
